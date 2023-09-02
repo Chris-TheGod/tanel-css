@@ -1,0 +1,12 @@
+.app {
+  display: flex;
+  width: max-content;
+  justify-content: end;
+  gap: 20px;
+
+  .nav {
+  }
+  .content {
+    display: flex;
+  }
+}
